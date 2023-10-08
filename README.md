@@ -1,7 +1,8 @@
 # Python Image Gallery with Qt6 GUI
 
 **Author**: Luca Bocaletto
-![Uploading Screenshot 2023-10-08 093758.png…]()
+
+![Screenshot 2023-10-08 093758](https://github.com/elektronoide/Gallery-Image/assets/134635227/bbc174c7-3e5d-4e99-95ee-e6019a73994b)
 
 The "Python Image Gallery with Qt6 GUI" is an application that allows you to view and browse images from a specific directory on your computer.
 
